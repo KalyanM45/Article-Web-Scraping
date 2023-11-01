@@ -1,0 +1,19 @@
+Tile: AI better than biopsy at assessing some cancers, study finds
+
+
+
+
+Researchers in UK say new tool could help ensure patients at high risk are identified promptly
+Artificial intelligence is almost twice as accurate as a biopsy at judging the aggressiveness of some cancers, according to research that experts say could save the lives of thousands of patients.
+Cancer kills 10 million people globally every year, according to the World Health Organization. For millions more patients, the disease can be thwarted if detected promptly and dealt with quickly. A key challenge for health workers is to find patients with high-risk tumours and treat them early.
+A study by the Royal Marsden NHS foundation trust and the Institute of Cancer Research (ICR) found that an AI algorithm was far better than a biopsy at correctly grading the aggressiveness of sarcomas, a rare form of cancer that develops in the body’s connective tissues, such as fat, muscle and nerves.
+By giving clinicians a more accurate way of grading tumours, researchers hope AI will improve outcomes for patients. Because high-grade tumours can indicate aggressive disease, the new tool could help to ensure those high-risk patients are identified more quickly and treated promptly.
+Low-risk patients could be spared unnecessary treatments, follow-up scans and hospital visits. Researchers say the algorithm could be applied to other types of the disease in future, potentially benefiting thousands of people. Their findings were published in the Lancet Oncology journal.
+The team specifically looked at retroperitoneal sarcoma, which develops at the back of the abdomen and is difficult to diagnose and treat due to its location.
+They used CT scans from 170 Royal Marsden patients with the two most common forms of retroperitoneal sarcoma – leiomyosarcoma and liposarcoma. Using data from the scans, they created an AI algorithm that was then tested on 89 patients in Europe and the US.
+The technology accurately graded how aggressive the tumour was likely to be 82% of the time, while biopsies were accurate in 44% of cases. AI could also differentiate between leiomyosarcoma and liposarcoma in 84% of sarcomas tested, while radiologists were unable to tell the difference in 35% of cases.
+The study lead, Christina Messiou, a consultant radiologist at the Royal Marsden and professor in imaging for personalised oncology at the ICR, said: “We’re incredibly excited by the potential of this state-of-the-art technology, which could lead to patients having better outcomes through faster diagnosis and more effectively personalised treatment.
+“As patients with retroperitoneal sarcoma are routinely scanned with CT, we hope this tool will eventually be used globally, ensuring that not just specialist centres – who see sarcoma patients every day – can reliably identify and grade the disease.”
+Messiou added: “In the future, this approach may help characterise other types of cancer, not just retroperitoneal sarcoma. Our novel approach used features specific to this disease, but by refining the algorithm, this technology could one day improve the outcomes of thousands of patients each year.”
+The study was funded by the Royal Marsden Cancer Charity, the National Institute for Health and Care Research (NIHR), the Wellcome Trust and the EORTC Soft Tissue and Bone Sarcoma Group.
+The Sarcoma UK chief executive, Richard Davidson, said the results “look very promising”. He said: “People are more likely to survive sarcoma if their cancer is diagnosed early – when treatments can be effective and before the sarcoma has spread to other parts of the body. One in six people with sarcoma cancer wait more than a year to receive an accurate diagnosis, so any research that helps patients receive better treatment, care, information and support is welcome.”

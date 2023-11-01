@@ -1,0 +1,27 @@
+Tile: Nick Clegg compares AI clamour to ‘moral panic’ in 80s over video games
+
+
+
+
+Meta executive’s comments show regulation discussions at UK summit could face tough resistance 
+Nick Clegg has compared the clamour over artificial intelligence to the 80s-era “moral panic” over video games, firing a warning shot to international politicians and regulators as they gather for a two-day summit on AI safety.
+The former UK deputy prime minister who is now president of global affairs at Mark Zuckerberg’s Meta said AI was caught in a “great hype cycle” but warned that new technologies inspired a mixture of excessive zeal and excessive pessimism.
+British officials are hoping to use the summit, which starts on Wednesday at Bletchley Park, to kickstart a regulatory process that could mirror international attempts to combat the climate crisis. But Clegg’s comments show they are likely to encounter resistance from some of the industry’s most powerful companies.
+“New technologies always lead to hype,” he said. “They often lead to excessive zeal amongst the advocates and excessive pessimism amongst the critics.
+“I remember the 80s. There was this moral panic about video games. There were moral panics about radio, the bicycle, the internet.”
+Referring to predictions that a highly powerful form of AI could emerge within years with revolutionary consequences, he added: “These predictions about what’s going to happen next, what’s going to happen just around the corner, often doesn’t quite turn out as those who are most steeped in it believe.”
+Clegg is one of the most powerful executives attending the summit this week. Others include Elon Musk, who will use his X social media platform to hold a conversation about regulating AI with Rishi Sunak, the UK prime minister, on Thursday evening.
+Ursula von der Leyen, the president of the European Commission, will be one of the most high-profile international politicians in attendance. Others including the US president, Joe Biden, and the French president, Emmanuel Macron, have decided to stay away.
+Some believe the summit should focus on short-term risks, such as biased decision-making and the potential to use AI for election disinformation. Clegg said he wanted delegates to discuss how to watermark AI-made content in a “collaborative way”.
+But much of the conversation this week will focus on longer-term risks, including the potential for an artificial general intelligence system to evade human control, with many experts warning that a sufficiently advanced system could even pose a threat to humanity itself.
+Stuart Russell, a professor of computer science at University of California, Berkeley, who is attending the summit, warned on Tuesday the current approach to building AI systems was unsafe.
+“We need to stop thinking about making AI safe, and start thinking about making safe AI,” he said. “We build the AI and then we have a safety team to stop it from behaving badly – that hasn’t worked and it’s never going to work.”
+Connor Leahy, the chief executive of the AI safety research company Conjecture, who will also be at the summit, called for an end to allowing privately owned AI companies to build “deadly machines” that he says will take control of the future.
+He said: “There is nothing more important than people knowing the truth of a small group of unelected, unaccounted, private companies are running a deadly experiment on you and your families, without your consent or your knowledge.”
+Michelle Donelan, the UK technology secretary, said in advance of the conference: “The risks posed by frontier AI are serious and substantive and it is critical that we work together, both across sectors and countries to recognise these risks.
+“This summit provides an opportunity for us to ensure we have the right people with the right expertise gathered around the table to discuss how we can mitigate these risks moving forward. Only then will we be able to truly reap the benefits of this transformative technology in a responsible manner.”
+The UK government is also keen to emphasise the positive potential uses for AI. During the summit ministers will promise to spend £38m to help fund “safe and responsible” AI projects in poorer parts of the world, starting with Africa.
+Officials say one of the main aims of the summit is to persuade those at the forefront of developing AI technology to slow down their efforts to build the most sophisticated models.
+However, Clegg’s comments suggest that is likely to be a difficult challenge.
+“I’m nonetheless still a sufficiently old-fashioned liberal to worry about the dead hand of the state,” he said.
+“In this area, it is really important to allow innovators, builders – people who are ingenious in the way in which they ultimately entrepreneurially develop these technologies – to do so without immediately assuming that whatever they do next is going to pose some existential risk.”

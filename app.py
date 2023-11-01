@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 
-current_datetime = datetime.now()
+current_datetime = datetime.now() 
 
 folder_name = current_datetime.strftime('%H_%M_%d_%m_%Y') # Format the current date and time for directory name
 
@@ -20,7 +20,7 @@ x=response.json() # Convert the response to JSON format
 
 web_urls = [item['webUrl'] for item in x['response']['results']]
 
-def save_content_to_file(url, folder, filename):
+def save_content_to_file(url, folder, filename): # Function to save the content to a file
     try:
         response = requests.get(url)
         if response.status_code == 200:
