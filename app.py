@@ -12,7 +12,7 @@ if not os.path.exists(folder_name):
     os.makedirs(folder_name, exist_ok=True) # Create a folder with the current date and time format
 
 # Define the URL to fetch data
-url = "https://content.guardianapis.com/technology/artificialintelligenceai?&api-key=01dd6b39-66d5-4ed8-8335-9dd17fe41a3f&type=article&page=1"
+url = "https://content.guardianapis.com/technology/artificialintelligenceai?&api-key=01dd6b39-66d5-4ed8-9dd17fe41a3f&type=article&page=1"
 
 response=requests.get(url) # Fetch data from the URL
 
