@@ -6,12 +6,7 @@ This Python script is designed to scrape articles from The Guardian's technology
 
 ## Built With
 
- -
- -
- -
- -
- -
-
+ - Beautiful Soup
 
 ## Getting Started
 
