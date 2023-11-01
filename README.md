@@ -15,7 +15,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Installation Steps
 
-### Option 1: Installation from GitHub
+### Installation from GitHub
 
 Follow these steps to install and set up the project directly from the GitHub repository:
 
@@ -24,7 +24,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanMurapaka45/--------------------.git
+     git clone https://github.com/KalyanMurapaka45/Article-Web-Scraping.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
@@ -57,28 +57,29 @@ Follow these steps to install and set up the project directly from the GitHub re
 
 6. **Access the Project**
    - Open a web browser or the appropriate client to access the project.
+   
   
-<br><br>
-### Option 2: Installation from DockerHub
+## Usage and Configuration
 
-If you prefer to use Docker, you can install and run the project using a Docker container from DockerHub:
+### Guardian API Key
 
-1. **Pull the Docker Image**
-   - Open your terminal or command prompt.
-   - Run the following command to pull the Docker image from DockerHub:
-     ```
-     docker pull kalyan45/movierecommend-app
-     ```
+This project requires an API key from The Guardian to fetch article data. If you don't already have one, you can obtain an API key by following these steps:
 
-2. **Run the Docker Container**
-   - Start the Docker container by running the following command, and mapping any necessary ports:
-     ```
-     docker run -p 5000:5000 kalyan45/movierecommend-app
-     ```
+1. Visit The Guardian Developer Portal: [The Guardian API Developer Portal](https://open-platform.theguardian.com/access/)
 
-3. **Access the Project**
-   - Open a web browser or the appropriate client to access the project.
+2. Sign up for an account or log in if you already have one.
 
+3. Create a new application and obtain your API key.
+
+### Configuration
+
+Once you have obtained your API key, you need to configure the project to use it. Here's how to do it:
+
+1. Open the Python script where you make the API request (the one with the URL to The Guardian's API).
+
+2. Locate the `URL` variable that contains the API request URL.
+
+3. In the URL, replace `YOUR_API_KEY` with the actual API key you obtained from The Guardian.
 
 ## Contributing
 
